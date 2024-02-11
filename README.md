@@ -12,6 +12,7 @@ No final do processo, essas informações serão enviadas por WhatsApp para a em
 ## 🔨 Tools
 
 - [React Native](https://reactnative.dev/docs/getting-started)
+- [Typescript](https://www.typescriptlang.org/pt/docs/)
 - [Expo](https://docs.expo.dev/)
 - [TailwindCSS](https://v2.tailwindcss.com/docs)
 
