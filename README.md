@@ -15,6 +15,7 @@ No final do processo, essas informações serão enviadas por WhatsApp para a em
 - [Typescript](https://www.typescriptlang.org/pt/docs/)
 - [Expo](https://docs.expo.dev/)
 - [TailwindCSS](https://v2.tailwindcss.com/docs)
+- [Zustand](https://docs.pmnd.rs/zustand/getting-started/introduction)
 
 
 ## 📷 Project images
