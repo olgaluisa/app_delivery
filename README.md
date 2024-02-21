@@ -1,12 +1,10 @@
 # App Delivery
 
-Access the website at the sub-domain: [app delivery]()
 
 ## 📄 About
 
 Projeto mobile desenvolvido durante o evento NLW Expert da Rocketseat. 
-Desenvolvemos um aplicativo pré-delivery que permite aos usuários montar seu pedido e adicionar suas informações de endereço.
-No final do processo, essas informações serão enviadas por WhatsApp para a empresa.
+Desenvolvemos um aplicativo pré-delivery que simplifica a montagem de pedidos e a inclusão de informações de endereço de maneira ágil. Após a finalização, as informações são enviadas automaticamente por WhatsApp para o estabelecimento, otimizando o atendimento e garantindo uma experiência eficiente para o cliente.
 
 
 ## 🔨 Tools
