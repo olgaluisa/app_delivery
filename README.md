@@ -4,6 +4,7 @@
 ## 📄 About
 
 Projeto mobile desenvolvido durante o evento NLW Expert da Rocketseat. 
+
 Desenvolvemos um aplicativo pré-delivery que simplifica a montagem de pedidos e a inclusão de informações de endereço de maneira ágil. Após a finalização, as informações são enviadas automaticamente por WhatsApp para o estabelecimento, otimizando o atendimento e garantindo uma experiência eficiente para o cliente.
 
 
